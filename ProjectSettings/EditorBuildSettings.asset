@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CityMainMenu.unity
+    guid: fbc02ec128510a340a5839b0cdb9e85f
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 1794952108f77084b99eb5ab0eece13c
+  - enabled: 1
+    path: Assets/Scenes/NourHallwayScene.unity
+    guid: f9198f2af17689349a781a07cf1bf3cd
+  - enabled: 1
+    path: Assets/Scenes/Room1.unity
+    guid: 7f1aeab249ddd75499f56ce41f91a1de
+  - enabled: 0
+    path: Assets/Scenes/NadaRoom2morgue.unity
+    guid: d9d2883b59354954f8c12dbe989570b9
+  - enabled: 1
+    path: Assets/Scenes/NadaHallwayMike&Ken.unity
+    guid: 8a2a3c29860e0424592ba479474b4f35
+  - enabled: 1
+    path: Assets/Scenes/NourFleeWithoutRemyHallwayScene.unity
+    guid: 6ce3eba0e1e5c284c83cf76bbbff2477
+  - enabled: 1
+    path: Assets/Scenes/NourRoom2morgue.unity
+    guid: 8355bbadb7cd7434783bf7fc967b819b
+  - enabled: 1
+    path: Assets/Scenes/MaramHallwayRemy.unity
+    guid: cbc133c4ca2e707469ffbdef15f18903
+  - enabled: 1
+    path: Assets/Scenes/MikeAloneCityExitScene.unity
+    guid: 0c4eeb90eb310864db18a8222fe2e4b2
+  - enabled: 1
+    path: Assets/Scenes/MikeAndKenCityExitScene.unity
+    guid: eaa53ae0460d23d42bfffbcacbac662f
+  - enabled: 1
+    path: Assets/Scenes/MikeAndRemyAndKenCityExitScene.unity
+    guid: 54a55ad89a4e0e841b7b15b7d3c51ddf
+  - enabled: 1
+    path: Assets/Scenes/MikeAndRemyCityExitScene.unity
+    guid: fd06e346f197254429ea93e681c57eef
+  - enabled: 1
+    path: Assets/Scenes/NadaHallwayMike&Ken&RemyScene.unity
+    guid: fb91f2cefc8890643946d33b69db1792
+  - enabled: 1
+    path: Assets/Scenes/NadaHallwayMike&KenLeaveRemyAndRunToTheCityScene.unity
+    guid: ef80a471aaa3ee043b9a87799760561f
+  - enabled: 1
+    path: Assets/Scenes/Mike&KenFindRemyInRoom1Scene.unity
+    guid: 3a8b59a21aa545b478517a4e4894cf18
+  m_configObjects: {}
